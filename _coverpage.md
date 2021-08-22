@@ -2,7 +2,7 @@
 
 <!-- ![logo](cover.gif) -->
 
-# 浩哥文档 <small>1.0</small>
+# holiday's docs <small>1.0</small>
 
 > 技术归档
 
