@@ -25,10 +25,30 @@
       // },
       subMaxLevel: 3,
       loadNavbar:true,
-      coverpage:true
+      coverpage:true,
+      disqus: 'shortname'
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/disqus.min.js"></script> -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+<script>
+  const gitalk = new Gitalk({ 
+    clientID: 'e544ee0ab1a697122f08',
+    clientSecret: 'bad43996938a482e371aba80e41970886e840967',
+    repo: 'holiday_docs_comments',
+    owner: 'Wenhao-liao',
+    admin: ['Wenhao-liao'],
+    // facebook-like distraction free mode
+    distractionFreeMode: false,
+    id: decodeURI(window.location.pathname),
+  })
+</script>
 </body>
 </html>
