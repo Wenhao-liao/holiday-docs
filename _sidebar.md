@@ -69,7 +69,6 @@
 * JS 简单算法题
 
   * [JS简单算法题](docs/FE/JS简单算法题/01.JS数组)
-  * [待更新]()
 * jQuery
 
   * [jQuery基础](docs/FE/jQuery/01.jQuery基础)
