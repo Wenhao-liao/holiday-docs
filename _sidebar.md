@@ -83,7 +83,7 @@
   * [ES5](docs/FE/ES5/01.ES5)
 * ES6
 
-  * [ECMAScript 简介](docs/FE/ES6/01.ECMAScript简介.md)
+  * [ECMAScript 简介](docs/FE/ES6/01.ECMAScript简介)
   * [关键字扩展](docs/FE/ES6/02.关键字扩展.md)
   * [变量的解构赋值](docs/FE/ES6/03.变量的解构赋值.md)
   * [字符串扩展](docs/FE/ES6/04.字符串扩展.md)
