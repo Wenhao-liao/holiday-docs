@@ -128,8 +128,8 @@
 * 移动端web开发
 
   * [px、em、rem、百分比的区别](docs/FE/移动端开发/01.px、em、rem、百分比的区别)
-  * [物理像素、逻辑像素、CSS像素、PPI、设备像素是什么](docs/FE/移动端开发/02.物理像素、逻辑像素、CSS像素、PPI、设备像素是什么)
-  * [移动端页面为什么要加meta name="viewport" content="width=device-width"](docs/FE/移动端开发/03.移动端页面为什么要加meta name="viewport" content="width=device-width")
+  * [物理、逻辑、CSS、设备像素、PPI是什么](docs/FE/移动端开发/02.物理、逻辑、CSS、设备像素、PPI是什么)
+  * [移动端页面meta](docs/FE/移动端开发/03.移动端页面meta)
   * [图片高清解决方案](docs/FE/移动端开发/04.图片高清解决方案)
   * [实现0.5px边框](docs/FE/移动端开发/05.实现0.5px边框)
   * [移动端适配思路](docs/FE/移动端开发/06.移动端适配思路)
